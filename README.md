@@ -1,4 +1,4 @@
-# Nitrome Flash Games: Running Them in Ruffle
+# Nitrome Flash Games: Run using Ruffle
 
 
 Download Ruffle Emulator: https://ruffle.rs
