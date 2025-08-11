@@ -5,7 +5,7 @@ With websites like Nitrome and Miniclip once dominating the online entertainment
 While it is sad to see that era fade, I wanted to share a little piece of my own online gaming joy: spending evenings on the family PC, playing Square Meal, Jack Frost, Bad Ice Cream or some other Nitrome game after finishing my homework. This guide is a fun tutorial for those feeling nostalgic for the days of browser gaming. So, let’s dust off those memories and get started.
 
 
-## Set Up
+## Setup Guide
 Download Ruffle Emulator: https://ruffle.rs
 
 Link to Access Nitrome Games: https://archive.org/details/all_nitrome_games
